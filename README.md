@@ -1,2 +1,2 @@
-# Eternity
+# EtherNet
 - [ ] Написать README.md
